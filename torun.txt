@@ -1,0 +1,3 @@
+first do go run service.go
+then in new terminal
+go rum main.go
